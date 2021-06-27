@@ -6,7 +6,7 @@ require (
 	github.com/hashicorp/go-version v1.3.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/browser v0.0.0-20210606212950-a7b7a6107d32
-	github.com/qlik-oss/enigma-go v1.2.0
+	github.com/qlik-oss/enigma-go/v2 v2.0.1
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
